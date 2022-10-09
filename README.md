@@ -1,3 +1,5 @@
+This is an exercise library app that allows users to search for certain categories of exercises and populates exercises for that muscle group from Rapid API's exercise database.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
